@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # to-do
     "pages.apps.PagesConfig",
+    "projects.apps.ProjectsConfig",
 ]
 
 MIDDLEWARE = [
