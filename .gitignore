@@ -1,0 +1,8 @@
+# virtual environment
+django-portfolio-venv
+
+# pycache
+__pycache__
+
+# db
+db.sqlite3
